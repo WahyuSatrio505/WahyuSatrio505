@@ -18,8 +18,8 @@ jobs:
             ./github-contribution-grid-snake-dark.svg
 
           # 🌈 Custom color!
-          color_snake: "#FF00FF"
-          color_dots: "#B2DFDB,#80CBC4,#4DB6AC,#26A69A,#009688"
+          color_snake: "#00FFF7"
+          color_dots: "#D0FFF7,#A0FFEE,#70FFE5,#40FFDD,#10FFD4"
 
       - name: Push to GitHub
         uses: crazy-max/ghaction-github-pages@v4
