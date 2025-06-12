@@ -1,33 +1,37 @@
-name: Generate Kobra 🔥🐍
+name: 🐍 Kobra Sunset Contribution Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" # jalan setiap hari jam 00:00 UTC
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
-  generate:
+  generate-snake:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Generate GitHub Snake Animation 🐍
+      - name: Checkout repositori
+        uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.9"
+
+      - name: Install dependencies
+        run: |
+          pip install matplotlib numpy
+
+      - name: Generate kobra SVG
         uses: Platane/snk@v3
         with:
           github_user_name: WahyuSatrio505
+          outputs: |
+            ./output/kobra-sunset-animation.svg?palette=github-dark
 
-outputs: |
-  ./kobra-sunset-animation.svg
-  ./kobra-sunset-dark.svg
-
-
-          # 🌈 Warna Ular & Titik-titik Kontribusi (Bikin Lebih Cerah & Kontras)
-          color_snake: "#FF4500" # Orange merah menyala
-          color_dots: "#FFE5B4,#FFD580,#FFC04D,#FF9900,#FF8C00" # Gradasi sunset vibes
-
-      - name: Push ke GitHub 🔄
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: .
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit dan Push hasil
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git add output/kobra-sunset-animation.svg
+          git commit -m "update: kobra sunset animation"
+          git push
