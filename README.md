@@ -33,15 +33,13 @@ Saya adalah mahasiswa Teknik Informatika yang sedang belajar banyak hal di dunia
 
 ## GitHub Contribution Snake
 
-![Snake animation](https://github.com/WahyuSatrio505/WahyuSatrio505/blob/output/github-contribution-grid-snake.svg)
+![Kobra animation](https://github.com/WahyuSatrio505/WahyuSatrio505/blob/output/kobra-sunset-animation.svg)
 
-
----
 
 ## 📫 Hubungi Saya
 
 - 📧 Email: wahyuusatriowibowo@gmail.com
-- 📍 Domisili: Karanganyar, Jawa Tengah
+- 📍 Domisili: Solo, Jawa Tengah
 
 ---
 
