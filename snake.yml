@@ -1,27 +1,28 @@
-name: Generate Snake
+name: Generate Kobra 🔥🐍
 
 on:
   schedule:
-    - cron: "0 0 * * *" # jalan tiap hari jam 00:00 UTC
+    - cron: "0 0 * * *" # jalan setiap hari jam 00:00 UTC
   workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Generate GitHub Snake animation
+      - name: Generate GitHub Snake Animation 🐍
         uses: Platane/snk@v3
         with:
           github_user_name: WahyuSatrio505
           outputs: |
-            ./github-contribution-glow-snake.svg
-            ./github-contribution-glow-snake-dark.svg
+            ./github-contribution-grid-snake.svg
+            ./github-contribution-grid-snake-dark.svg
 
-          # ⚡️ Neon gradient style biar beda dari ular biasa
-          color_snake: "#ff00c8"
-          color_dots: "#ffffff,#ffccff,#ff99ff,#cc66ff,#9900ff"
+          # 🌈 Warna Ular & Titik-titik Kontribusi (Bikin Lebih Cerah & Kontras)
+          color_snake: "#FF4500" # Orange merah menyala
+          color_dots: "#FFE5B4,#FFD580,#FFC04D,#FF9900,#FF8C00" # Gradasi sunset vibes
 
-      - name: Push to GitHub
+      - name: Push ke GitHub 🔄
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
