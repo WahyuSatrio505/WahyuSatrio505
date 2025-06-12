@@ -41,10 +41,16 @@ Saya adalah mahasiswa Teknik Informatika yang sedang belajar banyak hal di dunia
 
 
 
-## 🏆 Trophy GitHub-ku
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=WahyuSatrio505&theme=tokyonight&column=4&margin-w=15&margin-h=15)
+<a href="https://github.com/WahyuSatrio505">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WahyuSatrio505&theme=tokyonight" />
+</a>
 
+
+
+## 🧠 Aktivitas Terbaru
+
+![Wahyu's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=WahyuSatrio505&theme=tokyonight&hide_border=true)
 
 
 
