@@ -48,9 +48,6 @@ Saya adalah mahasiswa Teknik Informatika yang sedang belajar banyak hal di dunia
 
 
 
-## 🧠 Aktivitas Terbaru
-
-![Wahyu's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=WahyuSatrio505&theme=tokyonight&hide_border=true)
 
 
 
