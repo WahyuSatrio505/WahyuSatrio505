@@ -14,9 +14,11 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: WahyuSatrio505
-          outputs: |
-            ./github-contribution-grid-snake.svg
-            ./github-contribution-grid-snake-dark.svg
+
+outputs: |
+  ./kobra-sunset-animation.svg
+  ./kobra-sunset-dark.svg
+
 
           # 🌈 Warna Ular & Titik-titik Kontribusi (Bikin Lebih Cerah & Kontras)
           color_snake: "#FF4500" # Orange merah menyala
