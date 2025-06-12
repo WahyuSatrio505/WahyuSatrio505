@@ -31,6 +31,11 @@ Saya adalah mahasiswa Teknik Informatika yang sedang belajar banyak hal di dunia
 
 ![Bahasa Teratas](https://github-readme-stats.vercel.app/api/top-langs/?username=WahyuSatrio505&layout=compact&theme=tokyonight)
 
+## GitHub Contribution Snake
+
+![Snake animation](https://github.com/WahyuSatrio505/WahyuSatrio505/blob/output/github-contribution-grid-snake.svg)
+
+
 ---
 
 ## 📫 Hubungi Saya
