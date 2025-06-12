@@ -14,12 +14,12 @@ jobs:
         with:
           github_user_name: WahyuSatrio505
           outputs: |
-            ./github-contribution-grid-snake.svg
-            ./github-contribution-grid-snake-dark.svg
+            ./github-contribution-glow-snake.svg
+            ./github-contribution-glow-snake-dark.svg
 
-          # 🌈 Custom color!
-          color_snake: "#00FFF7"
-          color_dots: "#D0FFF7,#A0FFEE,#70FFE5,#40FFDD,#10FFD4"
+          # ⚡️ Neon gradient style biar beda dari ular biasa
+          color_snake: "#ff00c8"
+          color_dots: "#ffffff,#ffccff,#ff99ff,#cc66ff,#9900ff"
 
       - name: Push to GitHub
         uses: crazy-max/ghaction-github-pages@v4
