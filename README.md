@@ -31,26 +31,33 @@ Saya adalah mahasiswa Teknik Informatika yang sedang belajar banyak hal di dunia
 
 ---
 
+
+
 ## 📊 Statistik GitHub Saya
 
 ![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=WahyuSatrio505&show_icons=true&theme=tokyonight)
 
 ![Bahasa Teratas](https://github-readme-stats.vercel.app/api/top-langs/?username=WahyuSatrio505&layout=compact&theme=tokyonight)
 
-## 🏆 GitHub Trophy
+
 
 ## 🏆 Trophy GitHub-ku
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=WahyuSatrio505&theme=tokyonight&column=4&margin-w=15&margin-h=15)
 
 
+
+
 ## GitHub Contribution Snake
 
 ![Kobra animation](https://github.com/WahyuSatrio505/WahyuSatrio505/blob/output/kobra-sunset-animation.svg)
 
+
+
 ## 📈 GitHub Streak
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=WahyuSatrio505&theme=tokyonight)
+
 
 
 ## 💻 Tech Stack
