@@ -39,7 +39,9 @@ Saya adalah mahasiswa Teknik Informatika yang sedang belajar banyak hal di dunia
 
 ## 🏆 GitHub Trophy
 
-![trophy](https://github-profile-trophy.vercel.app/?username=WahyuSatrio505&theme=tokyonight&column=7)
+## 🏆 Trophy GitHub-ku
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=WahyuSatrio505&theme=tokyonight&column=4&margin-w=15&margin-h=15)
 
 
 ## GitHub Contribution Snake
