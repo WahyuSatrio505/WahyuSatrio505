@@ -21,7 +21,7 @@ Saya adalah mahasiswa Teknik Informatika yang sedang belajar banyak hal di dunia
 
 ---
 
-## 🔧 Skill yang Sedang Dipelajari
+## 🔧 Skill yang Sedang Saya Dipelajari
 
 - HTML, CSS, JavaScript
 - PHP & Laravel (mulai dari dasar)
