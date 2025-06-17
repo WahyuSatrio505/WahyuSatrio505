@@ -1,7 +1,7 @@
 
 # 👋 Halo! Nama saya adaalah Wahyu Satrio Wibowo
 
-Selamat datang di profil GitHub saya!  
+Selamat datang di profil GitHub saya..
 Saya adalah mahasiswa Teknik Informatika yang sedang belajar banyak hal di dunia pengembangan perangkat lunak.
 
 ---
