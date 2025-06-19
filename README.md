@@ -27,7 +27,7 @@ Saya adalah mahasiswa Teknik Informatika yang sedang belajar banyak hal di dunia
 - PHP & Laravel (mulai dari dasar)
 - Java (untuk backend dan software dev)
 - Python dasar (menuju ke AI/ML)
-- Git & GitHubb
+- Git & GitHub
 
 ---
 
