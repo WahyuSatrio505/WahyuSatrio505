@@ -85,7 +85,7 @@ Saya adalah mahasiswa Teknik Informatika yang sedang belajar banyak hal di dunia
 ## 📫 Hubungi Saya
 
 - 📧 Email: wahyuusatriowibowo@gmail.com
-- 📍 Domisili: Solo, Jawa Tengah
+- 📍 Domisili: Solo, Jawa Tengahhh
 
 ---
 
