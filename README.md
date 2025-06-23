@@ -29,7 +29,7 @@ Saya adalah mahasiswa Teknik Informatika yang sedang belajar banyak hal di dunia
 - Python dasar (menuju ke AI/ML)
 - Git & GitHub
 
----
+------ -----
 
 
 
