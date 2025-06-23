@@ -89,5 +89,5 @@ Saya adalah mahasiswa Teknik Informatika yang sedang belajar banyak hal di dunia
 
 ---
 
-> “Coding itu kayak ngopi tengah malam: pahit, tapi nagih.”
+> Coding itu kayak ngopi tengah malam: pahit, tapi nagih😎😏.
 
