@@ -15,7 +15,7 @@ Saya adalah mahasiswa Teknik Informatika yang sedang belajar banyak hal di dunia
   ## ☕ Fun Fact
 
 - Aku ngoding sambil dengerin musik DJ remix Spotify X YT 🤘
-- Paling suka kalau bug ilang cuma karena restart VS Code 😎
+- Paling suka kalau bug ilang cuma karena restart VS Codeee 😎
 - Motto hidup: Kalau error terus, berarti bentar lagi bisa!, ingat derr semua ada masanyaa kelass waaak 🔥
 
 
