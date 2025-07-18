@@ -10,7 +10,7 @@ Saya adalah mahasiswa Teknik Informatika yang sedang belajar banyak hal di dunia
 
 - 🎓 Mahasiswa IT yang haus ilmu dan tantangan 😎😎🪨🪨
 - 💻 Saat ini fokus belajar: **PHP**, **Java**, dan **Web Development**
-- 🚀 Target jangka panjang: jadi Software Engineer dan kerja di luar negeri 😎
+- 🚀 Target jangka panjang: jadi Software Engineer dan kerja di luar negeriiiiiuuuu 😎
 
   ## ☕ Fun Fact
 
