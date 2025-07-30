@@ -7,7 +7,7 @@ Saya adalah mahasiswa Teknik Informatika yang sedang belajar banyak hal di dunia
 
 ---
 
-## 🧠 Tentang Sayaaa
+## 🧠 Tentang Sayaa
 
 - 🎓 Mahasiswa IT yang haus ilmu dan tantangan 😎😎🪨🪨
 - 💻 Saat ini fokus belajar: **PHP**, **Java**, dan **Web Development**
@@ -46,7 +46,6 @@ Saya adalah mahasiswa Teknik Informatika yang sedang belajar banyak hal di dunia
 <a href="https://github.com/WahyuSatrio505">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WahyuSatrio505&theme=tokyonight" />
 </a>
-
 
 
 
