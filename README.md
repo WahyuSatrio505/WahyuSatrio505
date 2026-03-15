@@ -42,10 +42,9 @@ Saya adalah mahasiswa Teknik Informatika yang sedang belajar banyak hal di dunia
 
 
 
+## 📈 Grafik Aktivitas
 
-<a href="https://github.com/WahyuSatrio505">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WahyuSatrio505&theme=tokyonight" />
-</a>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=WahyuSatrio505&theme=tokyo-night)
 
 
 
