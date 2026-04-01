@@ -1,61 +1,48 @@
-# 👋 Hi, I'm Wahyu Satrio
+# 👋 Hai, Saya Wahyu Satrio
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Engineer+in+Progress;Local+AI+Systems+Builder;All-Rounder+Developer;Future+Global+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Engineer+in+Progress;Pengembang+AI+Lokal;All-Rounder+Developer;Calon+Engineer+Global" />
 </p>
 
 ---
 
-## 🧠 About Me
+## 🧠 Tentang Saya
 
-* 🎓 Informatics Engineering Student
-* 🤖 Focus: **AI Engineering (Local AI Systems)**
-* 🧩 All-rounder: Backend, Web, System Design
-* ⚙️ Strong interest in **efficient AI (offline, private, scalable)**
-* 🖥️ Preparing high-performance setup for serious AI workloads
-* 🌍 Vision: Build impactful AI systems & work globally
+* 🎓 Mahasiswa Teknik Informatika  
+* 🤖 Fokus: **AI Engineering (Sistem AI Lokal)**  
+* 🧩 All-rounder: Backend, Web, dan Perancangan Sistem  
+* ⚙️ Tertarik pada **AI efisien (offline, privat, dan scalable)**  
+* 🖥️ Sedang mempersiapkan setup berperforma tinggi untuk kebutuhan AI serius  
+* 🌍 Visi: Membangun sistem AI yang berdampak dan berkarier secara global  
 
 ---
 
-## 🧬 AI Journey
+## 🧬 Perjalanan AI
 
 ```text
-START → Web Dev → Backend → Local AI (Ollama 3.5B)
-      → Dockerized AI Apps → Scaling Hardware (PC Build)
-      → Fine-Tuning Models → Custom AI Systems → Jarvis-Level AI
-```
+MULAI → Web Development → Backend → AI Lokal (Ollama 3.5B)
+      → Aplikasi AI berbasis Docker → Scaling Hardware (Rakit PC)
+      → Fine-Tuning Model → Sistem AI Kustom → AI Level Jarvis
 
 ---
+⚡ Teknologi yang Digunakan
+💻 Bahasa Pemrograman
 
-## ⚡ Tech Stack
+Python Java JavaScript PHP
 
-### 💻 Languages
+🧰 Tools & Sistem
 
-`Python` `Java` `JavaScript` `PHP`
+Docker Ollama MySQL Bootstrap XAMPP Git
 
-### 🧰 Tools & Systems
-
-`Docker` `Ollama` `MySQL` `Bootstrap` `XAMPP` `Git`
-
----
-
-## 🚀 Featured Projects
-
-### 🤖 Local AI System
-
-* Running AI models locally (privacy + performance)
-* Focus on efficiency & real-world usage
-
----
-
-### 📄 Wyra SmartDocs (Local AI)
-
-* AI-powered document reader (PDF, large-scale text)
-* Uses **3.5B model via Ollama**
-* Fully **Dockerized** → portable & scalable
-* Built for future upgrade to stronger hardware
-
----
+🚀 Proyek Unggulan
+🤖 Sistem AI Lokal
+Menjalankan model AI secara lokal (privasi + performa)
+Berfokus pada efisiensi dan penggunaan di dunia nyata
+📄 Wyra SmartDocs (AI Lokal)
+Pembaca dokumen berbasis AI (PDF, teks skala besar)
+Menggunakan model 3.5B melalui Ollama
+Sepenuhnya berbasis Docker → portable dan scalable
+Dirancang untuk pengembangan lebih lanjut dengan hardware yang lebih kuat
 
 ### 🏫 University Admission System (PMB)
 
@@ -118,28 +105,6 @@ Target Build:
 
 ---
 
-## 👀 Visitor Counter
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=WahyuSatrio505&label=Profile+Views&color=0e75b6&style=flat" />
-</p>
-
----
-
-## 🧠 Engineering Mindset
-
-* Build > Talk
-* System > Feature
-* Efficiency > Hype
-* Execution > Ideas
-
----
-
-## 🧬 Vision
-
-> Building **local-first AI systems** that are powerful, private, and accessible.
-
----
 
 ## 📫 Contact
 
