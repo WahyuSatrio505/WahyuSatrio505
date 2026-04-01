@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Wahyu Satrio
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Engineer+in+Progress;Local+AI+Systems+Builder;All-Rounder+Developer;Future+Global+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Engineer+in+Progress;Local+AI+Systems+Builder;Vibe+Code;Students" />
 </p>
 
 ---
@@ -118,11 +118,6 @@ Target Build:
 
 ---
 
-## 👀 Visitor Counter
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=WahyuSatrio505&label=Profile+Views&color=0e75b6&style=flat" />
-</p>
 
 ---
 
@@ -143,7 +138,7 @@ Target Build:
 
 ## 📫 Contact
 
-* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+* 📧 Email: [wahyuuusatriow@gmail.com](mailto:wahyuuusatriowl@gmail.com)
 * 🌐 Portfolio: [https://www.eucalyptus.my.id/](https://www.eucalyptus.my.id/)
 
 ---
