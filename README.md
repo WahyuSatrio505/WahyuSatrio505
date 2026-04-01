@@ -1,91 +1,86 @@
-👨‍💻 whoami
+# 👋 Hai, Saya Wahyu Satrio
+### AI Engineer in Progress | Local AI Architect
 
-{
-  "name": "Wahyu Satrio",
-  "role": ["AI Enthusiast", "Fullstack Developer", "Tech Explorer"],
-  "focus": "Local AI Systems (Offline, Private, Scalable)",
-  "education_goals": [
-    "Semester 5: Mastering German Language (Target A1-A2) 🇩🇪",
-    "Post-Grad: Pursuing Tech Career / Studies in Germany 🌍"
-  ],
-  "current_mission": "Building an ultimate high-end rig for Local LLMs & serious AI experiments",
-  "philosophy": "Why rely on the cloud when you can build, train, and control your own AI infrastructure?"
-}
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Mahasiswa+Teknik+Informatika;Fokus+AI+Lokal;Target+Jerman+Semester+5;All-Rounder+Developer)
 
+---
 
-🛠️ Tech Arsenal
+## 👨‍💻 Profil Singkat
+- 🎓 **Mahasiswa Teknik Informatika**
+- 🤖 Spesialisasi **Sistem AI Lokal** (Ollama, Docker, Privacy-First)
+- 🇩🇪 **Visi:** Karier global ke Jerman (Sedang persiapan bahasa A1-A2)
+- 🖥️ **Project:** Membangun AI Lab pribadi dengan target PC High-End (±18jt)
 
-Senjata utama dalam meracik sistem dari Backend hingga AI Lokal.
+---
 
-🧬 The Evolution Roadmap (My AI Journey)
+## 🧬 Roadmap Perjalanan AI
+```mermaid
+graph LR
+    A[Web Development] --> B[Backend Systems]
+    B --> C[Local AI / Ollama]
+    C --> D[Docker & Scaling]
+    D --> E[AI Lab Setup]
+    E --> F[Global Career 🇩🇪]
 
-Perjalanan dari Web Dev biasa menuju Local AI Architect. Terus berkembang, terus adaptasi.
-
-graph TD;
-    A[🚀 Mulai Coding] --> B[🌐 Web Development & Backend];
-    B --> C[🧠 Eksperimen AI Lokal <br> Ollama 3.5B];
-    C --> D[🐳 Aplikasi AI Berbasis Docker];
-    D --> E[💻 Scaling Hardware & Rakit PC AI Lab];
-    E --> F[⚙️ Fine-Tuning Model & Sistem Kustom];
-    F --> G[🤖 AI Level 'Jarvis' Fully Local];
+    style F fill:#00F7FF,stroke:#333,stroke-width:2px
 
 
-(GitHub otomatis merender diagram Mermaid di atas biar keliatan canggih!)
+Gemini berkata
 
-🚀 Featured Deployments & Projects
+Siap Wahyu! Tarik napas dulu, kali ini Aal buatkan versi yang paling stabil, bersih, dan anti-error. Aal buang semua kode HTML yang berisiko bikin tampilan berantakan di GitHub kamu. Kita pakai Markdown murni yang didukung penuh sama sistem GitHub.
 
-🤖 Wyra SmartDocs
+Ini versi "Final & Clean" yang sudah ada Diagram, Snakes, Activity, dan Achievements. Langsung sikat, Yu!
+Markdown
 
-🏫 Sistem PMB (Production)
+# 👋 Hai, Saya Wahyu Satrio
+### AI Engineer in Progress | Local AI Architect
 
-🌐 Eucalyptus Portfolio
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Mahasiswa+Teknik+Informatika;Fokus+AI+Lokal;Target+Jerman+Semester+5;All-Rounder+Developer)
 
-AI Document Reader skala besar (PDF & Teks). Berjalan sepenuhnya lokal menggunakan model 3.5B (Ollama). 
+---
+
+## 👨‍💻 Profil Singkat
+- 🎓 **Mahasiswa Teknik Informatika**
+- 🤖 Spesialisasi **Sistem AI Lokal** (Ollama, Docker, Privacy-First)
+- 🇩🇪 **Visi:** Karier global ke Jerman (Sedang persiapan bahasa A1-A2)
+- 🖥️ **Project:** Membangun AI Lab pribadi dengan target PC High-End (±18jt)
+
+---
+
+## 🧬 Roadmap Perjalanan AI
+```mermaid
+graph LR
+    A[Web Development] --> B[Backend Systems]
+    B --> C[Local AI / Ollama]
+    C --> D[Docker & Scaling]
+    D --> E[AI Lab Setup]
+    E --> F[Global Career 🇩🇪]
+
+    style F fill:#00F7FF,stroke:#333,stroke-width:2px
+
+🏆 GitHub Achievements
 
 
+📊 Statistik & Aktivitas
 
 
+🐍 Snake Contribution Graph
 
-💡 Berbasis Docker, Portable, Scalable, Privacy-First.
+🛠️ Tech Stack
 
-Sistem Penerimaan Mahasiswa Baru yang dirancang untuk kebutuhan production. 
+    Languages: Python, Java, JavaScript, PHP, C++
 
+    DevOps/Tools: Docker, Git, Linux, Bash
 
+    Web: Bootstrap, Tailwind, Vercel
 
-
-
-💡 Robust, menangani data real-time, dan fokus pada reliabilitas sistem.
-
-Website personal dengan tampilan clean & responsif. Media branding dan showcase project. 
-
+    Database: MySQL
 
 
+📫 Hubungi Saya
 
+    🌐 Portfolio: eucalyptus.my.id
 
-🔗 eucalyptus.my.id
+    📧 Email: wahyuusatriowibowo@gmail.com
 
- 
-
- 
-
- 
-
-🖥️ Project: AI Lab (Future Setup)
-
-Bagi gue, privacy dan performa adalah kunci. Ini adalah target infrastruktur pribadi untuk melepaskan ketergantungan dari Cloud API:
-
-Target Rig: PC Performa Tinggi (± Rp 18.000.000)
-
-Use Cases:
-
-🧠 Menjalankan Local LLM dengan mulus.
-
-🔬 Eksperimen & Fine-Tuning Model AI.
-
-⚙️ Backend System berkecepatan tinggi.
-
-🚀 Development workflow tanpa latensi internet.
-
-📊 GitHub Activity & Stats
-
-📫 Connect with Me
+    💼 LinkedIn: wahyu-satrio-b7b795317
