@@ -5,92 +5,63 @@
 </p>
 
 ---
+🧠 Tentang Saya
+🎓 Mahasiswa Teknik Informatika
+🤖 Fokus: AI Engineering (Sistem AI Lokal)
+🧩 All-rounder: Backend, Web, dan Perancangan Sistem
+⚙️ Memiliki minat tinggi pada AI yang efisien (offline, privat, dan scalable)
+🖥️ Sedang mempersiapkan setup berperforma tinggi untuk kebutuhan AI serius
+🌍 Visi: Membangun sistem AI yang berdampak dan berkarier secara global
+🧬 Perjalanan AI
+MULAI → Web Development → Backend → AI Lokal (Ollama 3.5B)
+      → Aplikasi AI berbasis Docker → Scaling Hardware (Rakit PC)
+      → Fine-Tuning Model → Sistem AI Kustom → AI Level Jarvis
+⚡ Teknologi yang Digunakan
+💻 Bahasa Pemrograman
 
-## 🧠 About Me
+Python Java JavaScript PHP
 
-* 🎓 Informatics Engineering Student
-* 🤖 Focus: **AI Engineering (Local AI Systems)**
-* 🧩 All-rounder: Backend, Web, System Design
-* ⚙️ Strong interest in **efficient AI (offline, private, scalable)**
-* 🖥️ Preparing high-performance setup for serious AI workloads
-* 🌍 Vision: Build impactful AI systems & work globally
+🧰 Tools & Sistem
 
----
+Docker Ollama MySQL Bootstrap XAMPP Git
 
-## 🧬 AI Journey
+🚀 Proyek Unggulan
 
-```text
-START → Web Dev → Backend → Local AI (Ollama 3.5B)
-      → Dockerized AI Apps → Scaling Hardware (PC Build)
-      → Fine-Tuning Models → Custom AI Systems → Jarvis-Level AI
-```
+🤖 Sistem AI Lokal
+Menjalankan model AI secara lokal (privasi + performa)
+Berfokus pada efisiensi dan penggunaan di dunia nyata
 
----
+📄 Wyra SmartDocs (AI Lokal)
+Pembaca dokumen berbasis AI (PDF, teks skala besar)
+Menggunakan model 3.5B melalui Ollama
+Sepenuhnya berbasis Docker → portable dan scalable
+Dirancang untuk pengembangan lebih lanjut dengan hardware yang lebih kuat
 
-## ⚡ Tech Stack
+🏫 Sistem Penerimaan Mahasiswa Baru (PMB)
+Sistem level produksi (repository private)
+Dikerjakan oleh tim (3 developer + 1 dosen IT)
+Sudah digunakan dalam lingkungan nyata
+Fokus pada keandalan, alur data, dan kebutuhan sistem dunia nyata
 
-### 💻 Languages
+🔗 https://pmb.unsa.ac.id/
 
-`Python` `Java` `JavaScript` `PHP`
+🌐 Website Portofolio
 
-### 🧰 Tools & Systems
+🔗 https://www.eucalyptus.my.id/
 
-`Docker` `Ollama` `MySQL` `Bootstrap` `XAMPP` `Git`
+Tampilan bersih dan responsif
+Digunakan untuk personal branding dan showcase proyek
 
----
-
-## 🚀 Featured Projects
-
-### 🤖 Local AI System
-
-* Running AI models locally (privacy + performance)
-* Focus on efficiency & real-world usage
-
----
-
-### 📄 Wyra SmartDocs (Local AI)
-
-* AI-powered document reader (PDF, large-scale text)
-* Uses **3.5B model via Ollama**
-* Fully **Dockerized** → portable & scalable
-* Built for future upgrade to stronger hardware
-
----
-
-### 🏫 University Admission System (PMB)
-
-* Production-level system (private repo)
-* Team project (3 developers + 1 lecturer)
-* Already deployed in real environment
-* Focus: reliability, data flow, real-world constraints
-
-🔗 [https://pmb.unsa.ac.id/](https://pmb.unsa.ac.id/)
-
----
-
-### 🌐 Portfolio Website
-
-🔗 [https://www.eucalyptus.my.id/](https://www.eucalyptus.my.id/)
-
-* Clean UI + responsive design
-* Personal branding & project showcase
-
----
-
-## 🖥️ Future Setup (AI Lab)
-
-```text
+🖥️ Setup Masa Depan (AI Lab)
 Target Build:
-- High-performance PC (±18 juta budget)
-- Optimized for:
+- Personal Computer berperforma tinggi
+- Dioptimalkan untuk:
   → Local LLM
-  → Model experimentation
-  → Backend systems
-  → Development workflow
-```
+  → Eksperimen model
+  → Sistem backend
+  → Workflow pengembangan
 
-> Goal: Full control over AI development without cloud dependency.
-
+Tujuan: Memiliki kontrol penuh terhadap pengembangan AI tanpa ketergantungan pada cloud.
 ---
 
 ---
