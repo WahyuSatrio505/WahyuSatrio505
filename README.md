@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Wahyu Satrio
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Engineer+in+Progress;Local+AI+Systems+Builder;Vibe+Code;Students" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=WYRA+Creator;Local+AI+Systems+Builder;Vibe+Coder;Students" />
 </p>
 
 ---
