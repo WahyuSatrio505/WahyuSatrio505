@@ -1,86 +1,151 @@
-<h1 align="center">Hi 👋, Saya Wahyu Satrio</h1>
-<h3 align="center">AI Engineer in Progress | Local AI Systems Builder</h3>
+# 👋 Hi, I'm Wahyu Satrio
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Mahasiswa+Teknik+Informatika;Fokus+AI+Lokal;All-Rounder+Developer;Future+Global+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Engineer+in+Progress;Local+AI+Systems+Builder;All-Rounder+Developer;Future+Global+Engineer" />
 </p>
 
 ---
 
-## 🧠 Tentang Saya
+## 🧠 About Me
 
-<p align="center">
-  <img src="https://via.placeholder.com/700x250" />
-</p>
-
-🎓 Mahasiswa Teknik Informatika  
-🤖 Fokus pada **AI Engineering (Sistem AI Lokal)**  
-🧩 All-rounder: Backend, Web, dan Perancangan Sistem  
-⚙️ Tertarik pada **AI efisien (offline, privat, scalable)**  
-🖥️ Sedang membangun setup untuk kebutuhan AI serius  
-🌍 Visi: Membangun sistem AI berdampak & berkarier global  
+* 🎓 Informatics Engineering Student
+* 🤖 Focus: **AI Engineering (Local AI Systems)**
+* 🧩 All-rounder: Backend, Web, System Design
+* ⚙️ Strong interest in **efficient AI (offline, private, scalable)**
+* 🖥️ Preparing high-performance setup for serious AI workloads
+* 🌍 Vision: Build impactful AI systems & work globally
 
 ---
 
-## 🧬 Perjalanan AI
+## 🧬 AI Journey
 
 ```text
-MULAI 
-→ Web Development 
-→ Backend 
-→ AI Lokal (Ollama 3.5B)
-→ Aplikasi AI berbasis Docker 
-→ Scaling Hardware (Rakit PC)
-→ Fine-Tuning Model 
-→ Sistem AI Kustom 
-→ AI Level Jarvis
+START → Web Dev → Backend → Local AI (Ollama 3.5B)
+      → Dockerized AI Apps → Scaling Hardware (PC Build)
+      → Fine-Tuning Models → Custom AI Systems → Jarvis-Level AI
+```
 
+---
 
-⚡ Teknologi
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,java,javascript,php,docker,mysql,git,bootstrap" /> </p>
-🚀 Proyek Unggulan
-🤖 Sistem AI Lokal
-<p align="center"> <img src="https://via.placeholder.com/600x200" /> </p>
-Menjalankan AI secara lokal (privasi + performa)
-Fokus pada efisiensi & penggunaan nyata
-📄 Wyra SmartDocs
-<p align="center"> <img src="https://via.placeholder.com/600x200" /> </p>
-Pembaca dokumen berbasis AI
-Menggunakan model 3.5B (Ollama)
-Dockerized → portable & scalable
-Siap upgrade ke hardware lebih kuat
-🏫 Sistem PMB (Production)
-<p align="center"> <img src="https://via.placeholder.com/600x200" /> </p>
-Sistem real (repository private)
-Tim: 3 developer + 1 dosen
-Sudah digunakan di lingkungan nyata
-Fokus: reliability & data flow
+## ⚡ Tech Stack
 
-🔗 https://pmb.unsa.ac.id/
+### 💻 Languages
 
-🌐 Website Portofolio
-<p align="center"> <img src="https://via.placeholder.com/600x200" /> </p>
+`Python` `Java` `JavaScript` `PHP`
 
-🔗 https://www.eucalyptus.my.id/
+### 🧰 Tools & Systems
 
-UI clean & responsif
-Showcase project & personal branding
-📊 Statistik GitHub
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=WahyuSatrio505&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="150"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WahyuSatrio505&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="150"/> </p>
-📈 Aktivitas Kontribusi
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=WahyuSatrio505&theme=tokyo-night&hide_border=true" /> </p>
-🐍 Contribution Snake
-<p align="center"> <img src="https://raw.githubusercontent.com/WahyuSatrio505/WahyuSatrio505/output/github-contribution-grid-snake.svg" /> </p>
+`Docker` `Ollama` `MySQL` `Bootstrap` `XAMPP` `Git`
 
+---
 
-Target:
-- PC performa tinggi
-- Untuk:
+## 🚀 Featured Projects
+
+### 🤖 Local AI System
+
+* Running AI models locally (privacy + performance)
+* Focus on efficiency & real-world usage
+
+---
+
+### 📄 Wyra SmartDocs (Local AI)
+
+* AI-powered document reader (PDF, large-scale text)
+* Uses **3.5B model via Ollama**
+* Fully **Dockerized** → portable & scalable
+* Built for future upgrade to stronger hardware
+
+---
+
+### 🏫 University Admission System (PMB)
+
+* Production-level system (private repo)
+* Team project (3 developers + 1 lecturer)
+* Already deployed in real environment
+* Focus: reliability, data flow, real-world constraints
+
+🔗 [https://pmb.unsa.ac.id/](https://pmb.unsa.ac.id/)
+
+---
+
+### 🌐 Portfolio Website
+
+🔗 [https://www.eucalyptus.my.id/](https://www.eucalyptus.my.id/)
+
+* Clean UI + responsive design
+* Personal branding & project showcase
+
+---
+
+## 🖥️ Future Setup (AI Lab)
+
+```text
+Target Build:
+- High-performance PC (±18 juta budget)
+- Optimized for:
   → Local LLM
-  → Eksperimen AI
-  → Backend system
+  → Model experimentation
+  → Backend systems
   → Development workflow
+```
 
-🎯 Tujuan: Kontrol penuh pengembangan AI tanpa cloud
+> Goal: Full control over AI development without cloud dependency.
 
+---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=WahyuSatrio505&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WahyuSatrio505&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/WahyuSatrio505/WahyuSatrio505/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=WahyuSatrio505&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 👀 Visitor Counter
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=WahyuSatrio505&label=Profile+Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+## 🧠 Engineering Mindset
+
+* Build > Talk
+* System > Feature
+* Efficiency > Hype
+* Execution > Ideas
+
+---
+
+## 🧬 Vision
+
+> Building **local-first AI systems** that are powerful, private, and accessible.
+
+---
+
+## 📫 Contact
+
+* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+* 🌐 Portfolio: [https://www.eucalyptus.my.id/](https://www.eucalyptus.my.id/)
+
+---
+
+⭐ From WahyuSatrio505
