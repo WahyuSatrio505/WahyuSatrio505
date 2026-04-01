@@ -1,86 +1,151 @@
-# 👋 Hai, Saya Wahyu Satrio
-### AI Engineer in Progress | Local AI Architect
+# 👋 Hi, I'm Wahyu Satrio
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Mahasiswa+Teknik+Informatika;Fokus+AI+Lokal;Target+Jerman+Semester+5;All-Rounder+Developer)
-
----
-
-## 👨‍💻 Profil Singkat
-- 🎓 **Mahasiswa Teknik Informatika**
-- 🤖 Spesialisasi **Sistem AI Lokal** (Ollama, Docker, Privacy-First)
-- 🇩🇪 **Visi:** Karier global ke Jerman (Sedang persiapan bahasa A1-A2)
-- 🖥️ **Project:** Membangun AI Lab pribadi dengan target PC High-End (±18jt)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Engineer+in+Progress;Local+AI+Systems+Builder;All-Rounder+Developer;Future+Global+Engineer" />
+</p>
 
 ---
 
-## 🧬 Roadmap Perjalanan AI
-```mermaid
-graph LR
-    A[Web Development] --> B[Backend Systems]
-    B --> C[Local AI / Ollama]
-    C --> D[Docker & Scaling]
-    D --> E[AI Lab Setup]
-    E --> F[Global Career 🇩🇪]
+## 🧠 About Me
 
-    style F fill:#00F7FF,stroke:#333,stroke-width:2px
-
-
-Gemini berkata
-
-Siap Wahyu! Tarik napas dulu, kali ini Aal buatkan versi yang paling stabil, bersih, dan anti-error. Aal buang semua kode HTML yang berisiko bikin tampilan berantakan di GitHub kamu. Kita pakai Markdown murni yang didukung penuh sama sistem GitHub.
-
-Ini versi "Final & Clean" yang sudah ada Diagram, Snakes, Activity, dan Achievements. Langsung sikat, Yu!
-Markdown
-
-# 👋 Hai, Saya Wahyu Satrio
-### AI Engineer in Progress | Local AI Architect
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Mahasiswa+Teknik+Informatika;Fokus+AI+Lokal;Target+Jerman+Semester+5;All-Rounder+Developer)
+* 🎓 Informatics Engineering Student
+* 🤖 Focus: **AI Engineering (Local AI Systems)**
+* 🧩 All-rounder: Backend, Web, System Design
+* ⚙️ Strong interest in **efficient AI (offline, private, scalable)**
+* 🖥️ Preparing high-performance setup for serious AI workloads
+* 🌍 Vision: Build impactful AI systems & work globally
 
 ---
 
-## 👨‍💻 Profil Singkat
-- 🎓 **Mahasiswa Teknik Informatika**
-- 🤖 Spesialisasi **Sistem AI Lokal** (Ollama, Docker, Privacy-First)
-- 🇩🇪 **Visi:** Karier global ke Jerman (Sedang persiapan bahasa A1-A2)
-- 🖥️ **Project:** Membangun AI Lab pribadi dengan target PC High-End (±18jt)
+## 🧬 AI Journey
+
+```text
+START → Web Dev → Backend → Local AI (Ollama 3.5B)
+      → Dockerized AI Apps → Scaling Hardware (PC Build)
+      → Fine-Tuning Models → Custom AI Systems → Jarvis-Level AI
+```
 
 ---
 
-## 🧬 Roadmap Perjalanan AI
-```mermaid
-graph LR
-    A[Web Development] --> B[Backend Systems]
-    B --> C[Local AI / Ollama]
-    C --> D[Docker & Scaling]
-    D --> E[AI Lab Setup]
-    E --> F[Global Career 🇩🇪]
+## ⚡ Tech Stack
 
-    style F fill:#00F7FF,stroke:#333,stroke-width:2px
+### 💻 Languages
 
-🏆 GitHub Achievements
+`Python` `Java` `JavaScript` `PHP`
 
+### 🧰 Tools & Systems
 
-📊 Statistik & Aktivitas
+`Docker` `Ollama` `MySQL` `Bootstrap` `XAMPP` `Git`
 
+---
 
-🐍 Snake Contribution Graph
+## 🚀 Featured Projects
 
-🛠️ Tech Stack
+### 🤖 Local AI System
 
-    Languages: Python, Java, JavaScript, PHP, C++
+* Running AI models locally (privacy + performance)
+* Focus on efficiency & real-world usage
 
-    DevOps/Tools: Docker, Git, Linux, Bash
+---
 
-    Web: Bootstrap, Tailwind, Vercel
+### 📄 Wyra SmartDocs (Local AI)
 
-    Database: MySQL
+* AI-powered document reader (PDF, large-scale text)
+* Uses **3.5B model via Ollama**
+* Fully **Dockerized** → portable & scalable
+* Built for future upgrade to stronger hardware
 
+---
 
-📫 Hubungi Saya
+### 🏫 University Admission System (PMB)
 
-    🌐 Portfolio: eucalyptus.my.id
+* Production-level system (private repo)
+* Team project (3 developers + 1 lecturer)
+* Already deployed in real environment
+* Focus: reliability, data flow, real-world constraints
 
-    📧 Email: wahyuusatriowibowo@gmail.com
+🔗 [https://pmb.unsa.ac.id/](https://pmb.unsa.ac.id/)
 
-    💼 LinkedIn: wahyu-satrio-b7b795317
+---
+
+### 🌐 Portfolio Website
+
+🔗 [https://www.eucalyptus.my.id/](https://www.eucalyptus.my.id/)
+
+* Clean UI + responsive design
+* Personal branding & project showcase
+
+---
+
+## 🖥️ Future Setup (AI Lab)
+
+```text
+Target Build:
+- High-performance PC (±18 juta budget)
+- Optimized for:
+  → Local LLM
+  → Model experimentation
+  → Backend systems
+  → Development workflow
+```
+
+> Goal: Full control over AI development without cloud dependency.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=WahyuSatrio505&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WahyuSatrio505&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/WahyuSatrio505/WahyuSatrio505/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=WahyuSatrio505&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 👀 Visitor Counter
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=WahyuSatrio505&label=Profile+Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+## 🧠 Engineering Mindset
+
+* Build > Talk
+* System > Feature
+* Efficiency > Hype
+* Execution > Ideas
+
+---
+
+## 🧬 Vision
+
+> Building **local-first AI systems** that are powerful, private, and accessible.
+
+---
+
+## 📫 Contact
+
+* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+* 🌐 Portfolio: [https://www.eucalyptus.my.id/](https://www.eucalyptus.my.id/)
+
+---
+
+⭐ From WahyuSatrio505
