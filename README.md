@@ -1,19 +1,24 @@
-# 👋 Hai, Saya Wahyu Satrio
+<h1 align="center">👋 Hai, Saya Wahyu Satrio</h1>
+<h3 align="center">AI Engineer in Progress | Pengembang AI Lokal</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Engineer+in+Progress;Pengembang+AI+Lokal;All-Rounder+Developer;Calon+Engineer+Global" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Mahasiswa+Teknik+Informatika;Fokus+AI+Lokal;All-Rounder+Developer;Future+Global+Engineer" />
 </p>
 
 ---
 
+<p align="center">
+  <img src="https://via.placeholder.com/800x300" />
+</p>
+
 ## 🧠 Tentang Saya
 
-* 🎓 Mahasiswa Teknik Informatika  
-* 🤖 Fokus: **AI Engineering (Sistem AI Lokal)**  
-* 🧩 All-rounder: Backend, Web, dan Perancangan Sistem  
-* ⚙️ Tertarik pada **AI efisien (offline, privat, dan scalable)**  
-* 🖥️ Sedang mempersiapkan setup berperforma tinggi untuk kebutuhan AI serius  
-* 🌍 Visi: Membangun sistem AI yang berdampak dan berkarier secara global  
+🎓 Mahasiswa Teknik Informatika  
+🤖 Fokus pada **AI Engineering (Sistem AI Lokal)**  
+🧩 All-rounder: Backend, Web, dan Perancangan Sistem  
+⚙️ Tertarik pada **AI efisien (offline, privat, scalable)**  
+🖥️ Sedang membangun setup untuk kebutuhan AI serius  
+🌍 Visi: Membangun sistem AI berdampak & berkarier global  
 
 ---
 
@@ -24,93 +29,55 @@ MULAI → Web Development → Backend → AI Lokal (Ollama 3.5B)
       → Aplikasi AI berbasis Docker → Scaling Hardware (Rakit PC)
       → Fine-Tuning Model → Sistem AI Kustom → AI Level Jarvis
 
----
-⚡ Teknologi yang Digunakan
-💻 Bahasa Pemrograman
-
-Python Java JavaScript PHP
-
-🧰 Tools & Sistem
-
-Docker Ollama MySQL Bootstrap XAMPP Git
+⚡ Teknologi
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,java,javascript,php,docker,mysql,git,bootstrap" /> </p>
 
 🚀 Proyek Unggulan
+
 🤖 Sistem AI Lokal
-Menjalankan model AI secara lokal (privasi + performa)
-Berfokus pada efisiensi dan penggunaan di dunia nyata
-📄 Wyra SmartDocs (AI Lokal)
-Pembaca dokumen berbasis AI (PDF, teks skala besar)
-Menggunakan model 3.5B melalui Ollama
-Sepenuhnya berbasis Docker → portable dan scalable
-Dirancang untuk pengembangan lebih lanjut dengan hardware yang lebih kuat
+<p align="center"> <img src="https://via.placeholder.com/700x250" /> </p>
 
-### 🏫 University Admission System (PMB)
+Menjalankan AI secara lokal dengan fokus pada privasi, performa, dan efisiensi penggunaan di dunia nyata.
 
-* Production-level system (private repo)
-* Team project (3 developers + 1 lecturer)
-* Already deployed in real environment
-* Focus: reliability, data flow, real-world constraints
+📄 Wyra SmartDocs
+<p align="center"> <img src="https://via.placeholder.com/700x250" /> </p>
 
-🔗 [https://pmb.unsa.ac.id/](https://pmb.unsa.ac.id/)
+AI pembaca dokumen (PDF & teks skala besar) menggunakan model 3.5B (Ollama), berbasis Docker, portable, scalable, dan siap dikembangkan ke hardware yang lebih kuat.
 
----
+🏫 Sistem PMB (Production System)
+🌐 Website Portofolio
+<p align="center"> <img src="https://via.placeholder.com/700x250" /> </p>
 
-### 🌐 Portfolio Website
+🔗 https://www.eucalyptus.my.id/
 
-🔗 [https://www.eucalyptus.my.id/](https://www.eucalyptus.my.id/)
+Website personal dengan tampilan clean, responsif, dan digunakan sebagai media branding serta showcase project.
 
-* Clean UI + responsive design
-* Personal branding & project showcase
+🎬 Demo & Visual
+<p align="center"> <img src="https://via.placeholder.com/700x300" /> </p> <p align="center"> <a href="#"> <img src="https://img.youtube.com/vi/VIDEO_ID/0.jpg" /> </a> </p>
 
----
 
-## 🖥️ Future Setup (AI Lab)
 
-```text
-Target Build:
-- High-performance PC (±18 juta budget)
-- Optimized for:
+🖥️ Setup Masa Depan (AI Lab)
+Target:
+- PC performa tinggi (±18 juta)
+- Untuk:
   → Local LLM
-  → Model experimentation
-  → Backend systems
+  → Eksperimen AI
+  → Backend system
   → Development workflow
-```
 
-> Goal: Full control over AI development without cloud dependency.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WahyuSatrio505&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WahyuSatrio505&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/WahyuSatrio505/WahyuSatrio505/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=WahyuSatrio505&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
+🎯 Tujuan: Kontrol penuh pengembangan AI tanpa ketergantungan cloud
 
 
-## 📫 Contact
 
-* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-* 🌐 Portfolio: [https://www.eucalyptus.my.id/](https://www.eucalyptus.my.id/)
 
----
+🖥️ Setup Masa Depan (AI Lab)
+Target:
+- PC performa tinggi (±18 juta)
+- Untuk:
+  → Local LLM
+  → Eksperimen AI
+  → Backend system
+  → Development workflow
 
-⭐ From WahyuSatrio505
+🎯 Tujuan: Kontrol penuh pengembangan AI tanpa ketergantungan clouds
