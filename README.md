@@ -10,27 +10,7 @@ Saya adalah mahasiswa Teknik Informatika yang sedang belajar banyak hal di dunia
 ## 🧠 Tentang Sayaa
 
 - 🎓 Mahasiswa IT yang haus ilmu dan tantangan 😎😎🪨🪨
-- 💻 Saat ini fokus belajar: **PHP**, **Java**, dan **Web Development**
-- 🚀 Target jangka panjang: jadi Software Engineer dan kerja di luar negeriiiiiuuuu 😎
-
-  ## ☕ Fun Fact
-
-- Aku ngoding sambil dengerin musik DJ remix Spotify X YTTT 🤘
-- Paling suka kalau bug ilang cuma karena restart VS Codeee 😎
-- Motto hidup: Kalau error terus, berarti bentar lagi bisa!, ingat derr semua ada masanyaa kelass waaak 🔥
-
-
----
-
-## 🔧 Skill yang Sedang Aku Pelajajari saat ini
-
-- HTML, CSS, JavaScript
-- PHP & Laravel (mulai dari dasar)
-- Java (untuk backend dan software dev)
-- Python dasar (menuju ke AI/ML)
-- Git & GitHub
-
------- -----
+- 💻 Saat ini fokus belajar: **PHP**, **Backend Enginner**, dan **Pengembangan AI Local untuk dijadikan sebagai Product/Pemecah Masalah**
 
 
 
@@ -84,9 +64,7 @@ Saya adalah mahasiswa Teknik Informatika yang sedang belajar banyak hal di dunia
 ## 📫 Hubungi Saya
 
 - 📧 Email: wahyuusatriowibowo@gmail.com
-- 📍 Domisili: Solo, Jawa Tengahhh
+- 📍 Domisili: Surakarta, Jawa Tengahhh
 
 ---
-
-> Coding itu kayak ngopi tengah malam: pahit, tapi nagih 😸😎😏.
 
