@@ -126,14 +126,6 @@ Target Build:
 
 ---
 
-## 🧠 Engineering Mindset
-
-* Build > Talk
-* System > Feature
-* Efficiency > Hype
-* Execution > Ideas
-
----
 
 ## 🧬 Vision
 
@@ -143,7 +135,7 @@ Target Build:
 
 ## 📫 Contact
 
-* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+* 📧 Email: [your-wahyuuusatriow@egmail.com](mailto:wahyuuusatriow@gmail.com)
 * 🌐 Portfolio: [https://www.eucalyptus.my.id/](https://www.eucalyptus.my.id/)
 
 ---
