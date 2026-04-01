@@ -6,16 +6,24 @@
 
 ---
 🧠 Tentang Saya
+
 🎓 Mahasiswa Teknik Informatika
+
 🤖 Fokus: AI Engineering (Sistem AI Lokal)
+
 🧩 All-rounder: Backend, Web, dan Perancangan Sistem
+
 ⚙️ Memiliki minat tinggi pada AI yang efisien (offline, privat, dan scalable)
+
 🖥️ Sedang mempersiapkan setup berperforma tinggi untuk kebutuhan AI serius
+
 🌍 Visi: Membangun sistem AI yang berdampak dan berkarier secara global
+
 🧬 Perjalanan AI
 MULAI → Web Development → Backend → AI Lokal (Ollama 3.5B)
       → Aplikasi AI berbasis Docker → Scaling Hardware (Rakit PC)
       → Fine-Tuning Model → Sistem AI Kustom → AI Level Jarvis
+      
 ⚡ Teknologi yang Digunakan
 💻 Bahasa Pemrograman
 
