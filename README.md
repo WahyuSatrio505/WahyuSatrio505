@@ -93,13 +93,6 @@ Target Build:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WahyuSatrio505&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WahyuSatrio505&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="150"/>
-</p>
-
 ---
 
 ## 🐍 Contribution Snake
@@ -109,12 +102,6 @@ Target Build:
 </p>
 
 ---
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=WahyuSatrio505&theme=algolia&no-frame=true&margin-w=10" />
-</p>
 
 ---
 
