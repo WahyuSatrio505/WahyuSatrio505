@@ -118,13 +118,6 @@ Target Build:
 
 ---
 
-## 👀 Visitor Counter
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=WahyuSatrio505&label=Profile+Views&color=0e75b6&style=flat" />
-</p>
-
----
 
 
 ## 🧬 Vision
