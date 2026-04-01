@@ -96,8 +96,8 @@ Target Build:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WahyuSatrio505&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WahyuSatrio505&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=WahyuSatrio505&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WahyuSatrio505&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="150"/>
 </p>
 
 ---
@@ -105,7 +105,7 @@ Target Build:
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/WahyuSatrio505/WahyuSatrio505/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/WahyuSatrio505/WahyuSatrio505/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -113,22 +113,14 @@ Target Build:
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=WahyuSatrio505&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=WahyuSatrio505&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
 </p>
-
----
-
-
-
-## 🧬 Vision
-
-> Building **local-first AI systems** that are powerful, private, and accessible.
 
 ---
 
 ## 📫 Contact
 
-* 📧 Email: [your-wahyuuusatriow@egmail.com](mailto:wahyuuusatriow@gmail.com)
+* 📧 Email: [wahyuuusatriow@egmail.com](mailto:wahyuuusatriow@gmail.com)
 * 🌐 Portfolio: [https://www.eucalyptus.my.id/](https://www.eucalyptus.my.id/)
 
 ---
